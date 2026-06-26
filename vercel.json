@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/gemini/analyze",
+      "destination": "/api/gemini/analyze.js"
+    }
+  ]
+}
