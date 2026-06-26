@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Capacidade Produtiva — Ultraclor",
+  "description": "Simulador industrial operacional de capacidade produtiva v2.1 para cálculo deterministicamente interligado de capacidades, turnos e dimensionamento de operadores por tempo de ciclo e carga de trabalho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
